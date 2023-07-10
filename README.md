@@ -1,8 +1,9 @@
 ### Olá!👋 Seja bem vindo ao meu Github
 <p>👨‍💻Sou o Alan. Um graduando em Sistemas de Informação pela UFMG!</p>
 <p>⚙️ Atualmente eu trabalho com modelagens 3D na engenharia</p>
-<p>💻 Sou apaixonado por Tecnologia e em buca da nova carreira de dev!</p>
+<p>💻 Sou apaixonado por Tecnologia e em buca da nova carreira como dev!</p>
 <p>🎲 Sou desenvolvedor na equipe Formula Tesla da UFMG</p>
+<p>👀 Dê uma olhada nos meus projetos pra ver do que sou capaz</p>
 
 
 <div>
