@@ -10,7 +10,10 @@
 <div>
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=alan-augusto&show_icons=true&theme=panda" />
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-augusto&hide_progress=false&show_icons=true&theme=panda&layout=compact" />
-</div> 
+</div>
+<div>
+  <img src='https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2019/01/2000px-React-icon.svg_.png?fit=2000%2C1413&ssl=1'/>
+</div>
 
 
 <!--
