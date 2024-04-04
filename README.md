@@ -1,8 +1,8 @@
-### Olá!👋 Seja bem vindo ao meu Github
+### Olá!👋 Seja bem vindo ao meu Github.
 <p>👨‍💻Sou o Alan. Um graduando em Sistemas de Informação pela UFMG!</p>
 <p>💻 Sou apaixonado por Tecnologia e estou construindo uma carreira como dev!</p>
 <p>😄 Tenho uma queda por Front-End, mas sou feliz codando de todas as formas</p>
-<p>🎲 Sou desenvolvedor na equipe Formula Tesla da UFMG</p>
+<p>🎲 Atualmente sopu desenvolvedor jr. na Keevo Softwares</p>
 <p>👀 Dê uma olhada nos meus projetos pra ver se curte alguma coisa</p>
 
 
@@ -18,8 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="height:40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="height:40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  style="height:40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="height:40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:40px"/>
           
           
