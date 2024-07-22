@@ -1,8 +1,7 @@
 ### Olá!👋 Seja bem vindo ao meu Github.
 <p>👨‍💻Sou o Alan. Um graduando em Sistemas de Informação pela UFMG!</p>
-<p>💻 Sou apaixonado por Tecnologia e estou construindo uma carreira como dev!</p>
+<p>💻 Sou apaixonado por Tecnologia e trabalho como desenvolvedor Front End na Keevo Softwares</p>
 <p>😄 Tenho uma queda por Front-End, mas sou feliz codando de todas as formas</p>
-<p>🎲 Atualmente sopu desenvolvedor jr. na Keevo Softwares</p>
 <p>👀 Dê uma olhada nos meus projetos pra ver se curte alguma coisa</p>
 
 
